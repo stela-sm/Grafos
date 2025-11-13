@@ -15,10 +15,10 @@ O grafo se baseou no estudo sobre as linhas de ônibus DP de Diadema, analisando
 ---
 
 ## Participantes
-Emilly Budri
-Íris Oliveira
-Laura Cristini
-Stela Montenegro
+Emilly Budri <br>
+Íris Oliveira <br>
+Laura Cristini <br>
+Stela Montenegro <br>
 
 
 <small>Atividade para a aula de Estrutura de Dados - Professór Hélio Castro</small>
